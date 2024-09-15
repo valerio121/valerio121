@@ -1,4 +1,4 @@
-# Senior Full Stack/React, Vue, Node, Python
+# Senior Full Stack developer/React, Vue, Node, Python
 ## Tech Stack
 
 ### Web Dev
