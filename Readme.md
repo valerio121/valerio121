@@ -18,10 +18,5 @@ AWS (EC2, S3, RDS, Elastic Beanstalk, Lambda, CloudFront, CloudWatch, EventBridg
 - Hybrid App Development: React Native, Flutter
 - Frameworks & Tools: StoreKit, MapKit, Google Maps, Mapbox, In-App Purchases, Push Notifications, WebKit, GLKit, Core Data, Core ML, AV Kit, HealthKit, Click-to-Call, Chat & Messaging Software, User Authentication
 - Databases: SQLite, Firebase, MariaDB, MongoDB, PostgreSQL
-  
-## Telegram
-@primecodo
 
-## Skype
-live:.cid.4fdb28f4625b2fb8
 
